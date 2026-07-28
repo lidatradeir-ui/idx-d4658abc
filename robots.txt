@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lidatradeir-ui.github.io/idx-d4658abc/sitemap.xml
